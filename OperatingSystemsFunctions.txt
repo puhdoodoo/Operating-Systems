@@ -1,0 +1,1 @@
+A function of any operating system would be the interface between the user and the hardware. The GUI (Graphical User Interface) is when the user clicks icons on screen that open applications. After opening an application, you then use what is necessary to get the job you needed done.
