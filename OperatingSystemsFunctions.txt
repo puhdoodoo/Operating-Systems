@@ -5,3 +5,6 @@ All Operating Systems monitors the health of the system's hardware, showing the 
 
 
 Operating systems use File management systems that are organized into directories for efficient and easy navigation and usage. They may contain other directories and files. The OS carries out the following file management activities - keeping track of where information is stored, status of every file, user access settings and more. 
+
+
+device manager
