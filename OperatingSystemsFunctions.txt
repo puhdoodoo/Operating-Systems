@@ -1,1 +1,4 @@
 A function of any operating system would be the interface between the user and the hardware. The GUI (Graphical User Interface) is when the user clicks icons on screen that open applications. After opening an application, you then use what is necessary to get the job you needed done.
+
+
+All Operating Systems monitors the health of the system's hardware, showing the user how the hardware is performing. You can observe the CPU output, GPU output, how fast you are receiving data from your network, or how quickly your hard drive is retrieving the necessary data. It also monitors the temperatures of each piece of hardware.
